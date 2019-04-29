@@ -1,0 +1,3 @@
+function getValue(condition){
+if()
+}
